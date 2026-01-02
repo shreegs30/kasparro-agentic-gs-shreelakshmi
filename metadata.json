@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Kasparro AI Agentic Content Generation System",
+  "description": "A production-grade multi-agent system for automated content generation from product datasets, featuring custom template engines, logic blocks, and an orchestration layer.",
+  "requestFramePermissions": []
+}

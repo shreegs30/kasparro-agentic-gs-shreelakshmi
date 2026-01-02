@@ -1,0 +1,58 @@
+
+{
+  "layout": "modern-v1",
+  "sections": [
+    {
+      "id": "hero",
+      "data": {
+        "title": "GlowBoost Vitamin C Serum",
+        "subtitle": "Professional Grade 10% Vitamin C Formula",
+        "cta": "Buy Now"
+      }
+    },
+    {
+      "id": "ingredients",
+      "data": {
+        "title": "Key Ingredients",
+        "list": [
+          {
+            "name": "Vitamin C",
+            "role": "Active"
+          },
+          {
+            "name": "Hyaluronic Acid",
+            "role": "Hydrator"
+          }
+        ]
+      }
+    },
+    {
+      "id": "how-to-use",
+      "data": {
+        "title": "Application Guide",
+        "steps": [
+          {
+            "step": 1,
+            "instruction": "Apply 2–3 drops in the morning before sunscreen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "safety",
+      "data": {
+        "title": "Safety & Precautions",
+        "warnings": [
+          {
+            "type": "Side Effects",
+            "content": "Mild tingling for sensitive skin"
+          },
+          {
+            "type": "Patch Test",
+            "content": "Always recommended before full application."
+          }
+        ]
+      }
+    }
+  ]
+}

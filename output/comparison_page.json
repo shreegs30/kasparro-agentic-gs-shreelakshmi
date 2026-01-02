@@ -1,0 +1,39 @@
+
+{
+  "view": "table-comparison",
+  "data": {
+    "title": "How GlowBoost Vitamin C Serum Stands Out",
+    "matrix": [
+      {
+        "feature": "Active Concentration",
+        "productAValue": "10% Vitamin C",
+        "productBValue": "5% Vitamin C derivative",
+        "winner": "GlowBoost"
+      },
+      {
+        "feature": "Price Point",
+        "productAValue": "₹699",
+        "productBValue": "₹1,250",
+        "winner": "GlowBoost"
+      },
+      {
+        "feature": "Hydration Support",
+        "productAValue": "Hyaluronic Acid Included",
+        "productBValue": "Glycerin Based",
+        "winner": "GlowBoost"
+      },
+      {
+        "feature": "Target Skin Types",
+        "productAValue": "Oily, Combination",
+        "productBValue": "Dry skin only",
+        "winner": "Tie (Context Dependent)"
+      },
+      {
+        "feature": "Value for Money",
+        "productAValue": "High (Potent & Affordable)",
+        "productBValue": "Low (Luxury Markup)",
+        "winner": "GlowBoost"
+      }
+    ]
+  }
+}
